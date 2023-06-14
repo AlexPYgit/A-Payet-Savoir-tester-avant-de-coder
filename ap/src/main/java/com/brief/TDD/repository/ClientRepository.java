@@ -6,7 +6,7 @@ import org.springframework.stereotype.Repository;
 import com.brief.TDD.entity.Clients;
 
 @Repository
-public interface ClientRepository extends JpaRepository<Clients, int > {
+public interface ClientRepository extends JpaRepository<Clients, Long> {
 	   // No additional methods needed for this example
 
 }

@@ -1,4 +1,6 @@
-package com.brief.TDD.ap;
+package com.brief.TDD;
+
+import java.io.Console;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

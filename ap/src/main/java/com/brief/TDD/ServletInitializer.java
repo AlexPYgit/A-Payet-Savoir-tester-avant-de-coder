@@ -1,4 +1,4 @@
-package com.brief.TDD.ap;
+package com.brief.TDD;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
